@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Donald</h1>
 <h3 align="center">A passionate Front-end developer from Ghana</h3>
 
+![Screenshot (43)](https://user-images.githubusercontent.com/87555548/207114472-0c814c0b-f6ad-4e61-b787-329d558bff8d.png)
+
+
 ## 👨🏻‍💻 &nbsp; More About Me
 
 - 🌱 I’m **[currently available for hire]()**.
