@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donald</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">A passionate fron-tend developer from Ghana</h3>
 
 ## 👨🏻‍💻 &nbsp; More About Me
 
