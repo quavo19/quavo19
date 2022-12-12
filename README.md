@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Donald</h1>
 <h3 align="center">A passionate frontend developer from Ghana</h3>
 
-<p align="left"> <a href="https://twitter.com/AkiteDonald" target="blank"><img src="https://img.shields.io/twitter/follow/prantalks?logo=twitter&style=for-the-badge" alt="Donald" /></a> </p>
-
 ## 👨🏻‍💻 &nbsp; More About Me
 
 - 🌱 I’m **[currently available for hire]()**.
