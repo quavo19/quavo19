@@ -40,6 +40,7 @@
 
 ![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=quavo19&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quavo19&langs_count=8)
+![overview](https://github-readme-streak-stats.herokuapp.com/?user=quavo19&)
 
 ## 🤝🏻 &nbsp;Connect with Me
 <a href="https://www.linkedin.com/in/donald-akite-299a31222/"><img src="https://img.shields.io/badge/-Donald%20Akite%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
