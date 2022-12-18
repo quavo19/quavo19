@@ -1,7 +1,8 @@
 <h1>Hello 👋, I'm Donald</h1>
 <h3>A passionate Front-end developer from Ghana</h3>
 
-![Screenshot (43)](https://user-images.githubusercontent.com/87555548/207114472-0c814c0b-f6ad-4e61-b787-329d558bff8d.png)
+![Screenshot 2022-12-18 190916](https://user-images.githubusercontent.com/87555548/208314891-a2a0a95e-20d1-4f0b-b273-6654429c494d.png)
+
 
 
 ## 👨🏻‍💻 &nbsp; More About Me
