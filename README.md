@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 &nbsp; More About Me
 
-- 🌱 I’m **[currently available for hire]()**.
+- 🌱 I’m **[available for hire]()**.
 
 - 🔭 I’m currently working with, **React**
 
