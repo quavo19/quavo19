@@ -9,7 +9,7 @@
 
 - 🌱 I’m **[available for hire]()**.
 
-- 🔭 I’m currently working with, **React**
+- 🔭 I’m currently working with, **Ruby**
 
 - 📫 You can shoot me an email at **donaldakite27@gmail.com** I'll try to respond as soon as I can.
 
