@@ -1,5 +1,5 @@
 <h1>Hello 👋, I'm Donald</h1>
-<h3>A passionate Front-end developer from Ghana</h3>
+<h3>A passionate software developer from Ghana</h3>
 
 ![Screenshot 2022-12-18 190916](https://user-images.githubusercontent.com/87555548/208314891-a2a0a95e-20d1-4f0b-b273-6654429c494d.png)
 
@@ -27,7 +27,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=red)&nbsp;
 ![Rails](https://img.shields.io/badge/-Rails-05122A?style=flat&logo=ruby-on-rails&logoColor=red)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![PosgreSQL](https://img.shields.io/badge/-PosgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PosgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
