@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working with, **Ruby**
 
-- 📫 You can shoot me an email at **donaldakite27@gmail.com** I'll try to respond as soon as I can.
+- 📫 You can shoot me an email at **donaldakite27@gmail.com** I'll respond as soon as I can.
 
 - 📄  Please have a look at my [Portfolio](https://quavo19.github.io/Portfolio/) for more details about me. I'm open to feedback and suggestions!
 
