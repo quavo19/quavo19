@@ -6,7 +6,7 @@
 
 - 🌱 I’m **Open to work** 🙂 .
 
-- 🔭 I’m currently working with, **Ruby On Rails**
+- 🔭 I’m currently working with, **TypeScript-ReactNative**
 
 - 📫 You can shoot me an email at **donaldakite27@gmail.com** I'll respond as soon as I can.
 
