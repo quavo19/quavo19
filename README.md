@@ -1,4 +1,4 @@
-<h1>Hello 👋, I'm Donald</h1>
+<h1>Hello 👋, I'm Donald Akite</h1>
 <h3>A passionate software developer from Ghana</h3>
 
 ![Screenshot 2022-12-18 190916](https://user-images.githubusercontent.com/87555548/208314891-a2a0a95e-20d1-4f0b-b273-6654429c494d.png)
