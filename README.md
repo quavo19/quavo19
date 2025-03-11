@@ -1,17 +1,6 @@
 <h1>Hello 👋, I'm Donald Akite</h1> 
 <h3>A passionate software developer from Ghana</h3>
 
-## 👨🏻‍💻 &nbsp; More About Me
-
-- 🌱 I’m **Open to work** 🙂 .
-
-- 🔭 I’m currently working with, **TypeScript-ReactNative**
-
-- 📫 You can shoot me an email at **donaldakite27@gmail.com** I'll respond as soon as I can.
-
-- 📄  Please have a look at my [Portfolio](https://quavo19.github.io/Portfolio/) for more details about me. I'm open to feedback and suggestions!
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
