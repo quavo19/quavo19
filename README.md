@@ -1,6 +1,3 @@
-<h1>Hello 👋, I'm Donald Akite</h1> 
-<h3>A passionate software developer from Ghana</h3>
-
 
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
